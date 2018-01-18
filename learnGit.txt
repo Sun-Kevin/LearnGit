@@ -2,3 +2,4 @@ Git init to initialize a empty repository.
 Git checkout -b branchName equals to git branch branchName & git checkout branchName, create and switch to a new branch.
 This line was added on dev branch originally.
 This line was added at 22:21, 17 Jan 2018 on Branch dev.
+This line was added at 10:41, 18 Jan 2018 on Branch dev from office.
